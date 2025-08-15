@@ -25,8 +25,9 @@ If gas concentration ≥ threshold → LED turns ON
 If gas concentration < threshold → LED remains OFF
 
 Circuit Diagram
-![Gas Sensor Circuit Diagram](Gassensor %20Circuit%20diagram.png)
+![Gas Sensor Circuit Diagram](Gas%20Sensor.jpeg)
+
 
 YouTube Demonstration
 
-🔗 Watch the project in action on YouTube https://youtube.com/shorts/GoTx8Sd9DbE?si=oakKCZQWvTtLhamk
+🔗 Watch the project in action on YouTube 
