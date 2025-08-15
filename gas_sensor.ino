@@ -1,5 +1,5 @@
 const int gasSensorPin = A0;  // MQ-5 analog pin
-const int ledPin = 8;         // LED connected to digital pin 8
+const int ledPin = 13;         // LED connected to digital pin 8
 const int threshold = 90;    // Set your desired gas level threshold
 
 void setup() {
