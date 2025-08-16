@@ -30,4 +30,4 @@ Circuit Diagram
 
 YouTube Demonstration
 
-🔗 Watch the project in action on YouTube 
+🔗 Watch the project in action on YouTube https://youtube.com/shorts/TwOqKkmacWw?si=_Xh2dOoFJS-4krUl
